@@ -1,0 +1,30 @@
+ul li {
+    background: cyan;
+    margin: 5px;
+}
+h1 {
+    color: blue;
+    font-family: verdana;
+    font-size: 300%;
+}
+p  {
+    color: red;
+    font-family: courier;
+    font-size: 160%;
+    background-color: cyan
+
+}
+body{
+    background-color:lavenderblush
+    float-right
+    margin-right: 200px
+}
+a {
+    /* color: #337ab7; */
+    text-decoration: none;
+    float-right: 50px;
+    /* float: right; */
+    /* margin-left: 10px; */
+    margin-left: 100px;
+    color: darkblue;
+}
